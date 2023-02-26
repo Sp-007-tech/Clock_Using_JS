@@ -1,3 +1,4 @@
+
 function displaytime()
 {
     var datetime = new Date();
